@@ -21,3 +21,4 @@ An interactive 6x6 LED grid that responds to capacitive touch input. Built using
 ## 💾 Required Libraries
 - Adafruit MPR121
 - FastLED
+![Demo](https://imgflip.com/gif/9impmh)
