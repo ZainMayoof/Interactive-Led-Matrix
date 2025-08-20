@@ -1,5 +1,6 @@
 # Interactive-Led-Matrix
 (MIT WORKSHOP PROJECT)
+
 An interactive 6x6 LED grid that responds to capacitive touch input. Built using an Arduino MEGA, MPR121 capacitive touch sensors, and WS2812 addressable LEDs, this project combines light and touch interaction.
 
 ## 📌 Features
